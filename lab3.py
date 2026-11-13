@@ -22,3 +22,5 @@ result_index = find_index(lst)
 
 print(f"Вхідний масив: {lst}")
 print(f"Знайдений індекс: {result_index}")
+#one more line
+
